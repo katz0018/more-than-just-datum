@@ -1,13 +1,13 @@
 html {
-  font-family: Georgia, serif;
+  font-family: 'Merriweather Sans', sans-serif;
 }
 
-.search-div {
+.search-bar {
   border: solid 2px #000;
   background-color: #fff;
 }
 
-header {
+.header {
   background-color: #ddd;
 }
 
@@ -24,6 +24,10 @@ table {
   max-width: 200px;
 }
 
-.side {
+.nearest-playground {
+  background-color: #fff;
+}
+
+.back-dl {
   background-color: #efefef;
 }
