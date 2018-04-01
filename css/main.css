@@ -2,7 +2,7 @@ html {
   font-family: Georgia, serif;
 }
 
-.search {
+.search-div {
   border: solid 2px #000;
   background-color: #fff;
 }
@@ -11,7 +11,7 @@ header {
   background-color: #ddd;
 }
 
-.image {
+.search {
   max-width: 20px;
 }
 
