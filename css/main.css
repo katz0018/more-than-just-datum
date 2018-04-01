@@ -18,6 +18,7 @@ html {
 table {
   border-collapse: collapse;
   min-width: 62em;
+  overflow: scroll;
 }
 
 .logo {
