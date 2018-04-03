@@ -25,18 +25,11 @@ table {
   max-width: 200px;
 }
 
+.white,
 .nearest-playground {
   background-color: #fff;
 }
 
-.back-dl {
+.back-ul {
   background-color: #efefef;
-}
-
-tr:nth-child(25) {
-  display: ;
-}
-
-td:nth-child(8) {
-  display: none;
 }
