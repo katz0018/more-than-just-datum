@@ -32,3 +32,11 @@ table {
 .back-dl {
   background-color: #efefef;
 }
+
+tr:nth-child(25) {
+  display: ;
+}
+
+td:nth-child(8) {
+  display: none;
+}
