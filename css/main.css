@@ -17,7 +17,7 @@ html {
 
 table {
   border-collapse: collapse;
-  min-width: 62em;
+  min-width: 45em;
   overflow: scroll;
 }
 
@@ -32,4 +32,12 @@ table {
 
 .back-ul {
   background-color: #efefef;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .table-wrapper {
+    overflow: visible;
+  }
+
 }
